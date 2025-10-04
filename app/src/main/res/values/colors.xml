@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_200">#3700B3</color>
+    <color name="purple_500">#3700B3</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#FF757575</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="holo_red_light">#FFCDD2</color>
+    <color name="holo_green_light">#C8E6C9</color>
+    <color name="holo_blue_light">#B3E5FC</color>
+    <color name="holo_orange_light">#FFE0B2</color>
+
+
+
+    <color name="light_gray">#F5F5F5</color>
+    <color name="medium_gray">#E0E0E0</color>
+    <color name="dark_gray">#9E9E9E</color>
+
+    <color name="holo_red_dark">#D32F2F</color>
+    <color name="holo_orange_dark">#F57C00</color>
+
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="secondary_color">#FF9800</color>
+
+    <color name="background_gray">#F5F5F5</color>
+
+    <color name="red">#F44336</color>
+
+    <color name="card_servicios">#2196F3</color>
+    <color name="card_reservas">#FF9800</color>
+    <color name="card_tienda">#4CAF50</color>
+    <color name="card_educacion">#9C27B0</color>
+    <color name="card_perfil">#795548</color>
+    <color name="card_historial">#607D8B</color>
+    <color name="card_ubicacion">#009688</color>
+    <color name="card_logout">#F44336</color>
+
+</resources>

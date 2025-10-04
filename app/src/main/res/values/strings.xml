@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Huellitas de Splash</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="go_register">Registrarse</string>
+    <string name="name">Nombre</string>
+    <string name="register">Crear cuenta</string>
+    <string name="pet_name">Nombre de la mascota</string>
+    <string name="pet_type">Tipo (perro, gato...)</string>
+    <string name="pet_breed">Raza</string>
+    <string name="pet_age">Edad</string>
+    <string name="upload_photo">Subir foto</string>
+    <string name="empty_fields">Completa todos los campos</string>
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="login_error">Correo o contraseña incorrectos</string>
+    <string name="register_success">Cuenta creada con éxito</string>
+    <string name="already_have_account">¿Ya tienes una cuenta? Inicia sesión</string>
+    <string name="register_error">No se pudo registrar (¿correo ya existe?)</string>
+    <string name="title_servicios">Pantalla de Servicios</string>
+    <string name="title_reservas">Pantalla de Reservas</string>
+    <string name="title_tienda">Pantalla de Tienda</string>
+    <string name="title_historial">Pantalla de Historial</string>
+    <string name="title_ubicacion">Pantalla de Ubicación</string>
+    <string name="title_educacion">Pantalla de Educación</string>
+    <string name="title_perfil">Pantalla de Perfil</string>
+    <string name="btn_servicios">Servicios del Spa</string>
+    <string name="btn_reservas">Reservas y Agenda</string>
+    <string name="btn_tienda">Tienda de Productos</string>
+    <string name="btn_historial">Historial</string>
+    <string name="btn_ubicacion">Ubicación</string>
+    <string name="btn_educacion">Sección Educativa</string>
+    <string name="btn_perfil">Perfil de Usuario y Mascota</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+    <string name="save_pet">Guardar Mascota</string>
+    <string name="logout_success">Sesión cerrada correctamente</string>
+    <string name="pet_saved">Mascota guardada con éxito</string>
+    <string name="pet_save_error">Error al guardar mascota</string>
+    <string name="image_selected">Imagen seleccionada correctamente</string>
+    <string name="fill_all_fields">Por favor llena todos los campos</string>
+    <string name="invalid_email">Por favor ingresa un email válido</string>
+    <string name="short_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="email_exists">Este correo ya está registrado</string>
+    <string name="welcome_message">Hola, bienvenido %s</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_reservas">Reservas</string>
+    <string name="menu_tienda">Tienda</string>
+    <string name="menu_historial">Historial</string>
+    <string name="menu_ubicacion">Ubicación</string>
+    <string name="menu_educacion">Educación</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_logout">Cerrar Sesión</string>
+    <string name="logout_message">Sesión cerrada</string>
+    <string name="welcome_subtitle">¿Qué necesitas hoy?</string>
+    <!-- Servicios -->
+
+    <string name="servicio_banio">Baño y Aseo</string>
+    <string name="servicio_corte">Corte de Pelo</string>
+    <string name="servicio_spa">Spa Completo</string>
+    <string name="servicio_dental">Limpieza Dental</string>
+    <string name="servicio_uñas">Corte de Uñas</string>
+    <string name="precio">Precio: $%s</string>
+    <string name="duracion">Duración: %s</string>
+    <string name="descripcion_banio">Baño relajante con shampoo especial, secado y cepillado</string>
+    <string name="descripcion_corte">Corte de pelo según raza y estilo preferido</string>
+    <string name="descripcion_spa">Incluye baño, corte, limpieza dental y masaje relajante</string>
+    <string name="descripcion_dental">Limpieza dental profesional para mascotas</string>
+    <string name="descripcion_unas">Corte seguro de uñas y limpieza de oídos</string>
+
+    <!-- Reservas -->
+    <string name="reservar_servicio">Reservar Servicio</string>
+    <string name="seleccionar_fecha">Seleccionar Fecha</string>
+    <string name="seleccionar_hora">Seleccionar Hora</string>
+    <string name="confirmar_reserva">Confirmar Reserva</string>
+    <string name="reserva_exitosa">¡Reserva confirmada!</string>
+    <string name="fecha_seleccionada">Fecha: %s</string>
+    <string name="hora_seleccionada">Hora: %s</string>
+    <string name="detalle_reserva">Detalle de Reserva</string>
+
+    <!-- Calendario -->
+    <string name="title_calendario">Seleccionar Fecha y Hora</string>
+    <string name="servicio_seleccionado">Servicio: %s</string>
+    <string name="precio_servicio">Precio: $%d</string>
+    <string name="selecciona_fecha">Selecciona una fecha</string>
+    <string name="selecciona_hora">Selecciona una hora</string>
+    <string name="continuar">Continuar</string>
+    <string name="fecha_no_seleccionada">Por favor selecciona una fecha</string>
+    <string name="hora_no_seleccionada">Por favor selecciona una hora</string>
+
+    <!-- Confirmación -->
+    <string name="title_confirmacion">Confirmar Reserva</string>
+    <string name="fecha_reserva">Fecha: %s</string>
+    <string name="hora_reserva">Hora: %s</string>
+    <string name="confirmar">Confirmar Reserva</string>
+    <string name="volver_inicio">Volver al Inicio</string>
+
+    <string name="estado_confirmada">Confirmada</string>
+    <string name="estado_pendiente">Pendiente</string>
+    <string name="estado_cancelada">Cancelada</string>
+    <string name="reserva_guardada">Reserva guardada exitosamente</string>
+    <string name="error_reserva">Error al guardar la reserva</string>
+
+    <!-- Reservas y Agenda -->
+    <string name="sin_reservas">No tienes reservas aún</string>
+    <string name="reserva_pendiente">Pendiente</string>
+    <string name="reserva_confirmada">Confirmada</string>
+    <string name="reserva_realizada">Realizada</string>
+    <string name="reserva_cancelada">Cancelada</string>
+    <string name="detalle_reserva_title">Detalle de Reserva</string>
+    <string name="estado_reserva">Estado: %s</string>
+    <string name="cancelar_reserva">Cancelar Reserva</string>
+    <string name="marcar_realizada">Marcar como Realizada</string>
+    <string name="reserva_cancelada_exito">Reserva cancelada exitosamente</string>
+    <string name="reserva_realizada_exito">Reserva marcada como realizada</string>
+
+    <!-- Navegación -->
+    <string name="volver_menu">Volver al Menú</string>
+    <string name="volver_atras">Atrás</string>
+    <string name="menu_principal">Menú Principal</string>
+
+    <!-- Tienda de Productos -->
+
+    <string name="catalogo_productos">Catálogo de Productos</string>
+    <string name="detalle_producto">Detalle del Producto</string>
+    <string name="carrito_compras">Carrito de Compras</string>
+    <string name="metodo_pago">Método de Pago</string>
+    <string name="agregar_carrito">Agregar al Carrito</string>
+    <string name="comprar_ahora">Comprar Ahora</string>
+    <string name="carrito_vacio">Tu carrito está vacío</string>
+    <string name="total_carrito">Total: $%d</string>
+    <string name="continuar_compra">Continuar Compra</string>
+    <string name="procesar_pago">Procesar Pago</string>
+    <string name="pago_exitoso">¡Pago exitoso! Pedido confirmado</string>
+    <string name="seleccionar_metodo_pago">Seleccionar método de pago</string>
+    <string name="tarjeta_credito">Tarjeta de Crédito</string>
+    <string name="tarjeta_debito">Tarjeta de Débito</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="transferencia">Transferencia Bancaria</string>
+    <string name="cantidad">Cantidad: %d</string>
+    <string name="stock_disponible">Stock: %d</string>
+    <string name="categoria_alimentos">Alimentos</string>
+    <string name="categoria_juguetes">Juguetes</string>
+    <string name="categoria_higiene">Higiene</string>
+    <string name="categoria_accesorios">Accesorios</string>
+
+    <string name="education_title">Educación para Mascotas</string>
+    <string name="education_subtitle">Aprende consejos y mejores prácticas para el cuidado de tus mascotas</string>
+    <string name="min_read">min lectura</string>
+
+    <string name="perfil_title">Mi Perfil</string>
+    <string name="editar_perfil_title">Editar Perfil</string>
+    <string name="guardar_cambios">Guardar Cambios</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="perfil_actualizado">Perfil actualizado correctamente</string>
+    <string name="error_actualizar_perfil">Error al actualizar el perfil</string>
+
+</resources>
